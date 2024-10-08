@@ -13,7 +13,7 @@ class Usuario extends ActiveRecord {
     public $email;
     public $password;
     public $telefono;
-    public $admin;
+    public $admin; //hola
     public $confirmado;
     public $token;
 
